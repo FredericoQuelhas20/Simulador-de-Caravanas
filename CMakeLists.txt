@@ -15,4 +15,5 @@ add_executable(TP main.cpp
         City.cpp
         City.h
         Caravan.cpp
-        Caravan.h)
+        Caravan.h
+        Caravan.cpp)

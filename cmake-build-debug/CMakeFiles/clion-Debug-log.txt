@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\frede\OneDrive\Ambiente de Trabalho\4o ANO\trabalhosCV\Simulador-de-Caravanas\cmake-build-debug
+It is already used for project C:\Users\frede\OneDrive\Ambiente de Trabalho\3ºANO LEI\SEMESTRE I\POO\poo_tp\TP - Cópia
+
+Please either delete it manually or select another generation directory
