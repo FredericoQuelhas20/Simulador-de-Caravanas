@@ -4,8 +4,8 @@
 Este projeto tem como objetivo criar um simulador de caravanas desenvolvido em C++, realizado no âmbito da unidade curricular de Programação Orientada a Objetos. O sistema simula o movimento e gestão de diferentes tipos de caravanas num mapa, incluindo comércio, combate, gestão de recursos e eventos aleatórios.
 
 ## Equipa de Desenvolvimento
-- Frederico Quelhas
-- Afonso Silva
+- **Frederico Quelhas** . [@FredericoQuelhas20](https://github.com/FredericoQuelhas20)
+- **Afonso Silva** . [@Afonsod706](https://github.com/Afonsod706)
 
 ## Tecnologias Utilizadas
 - **C++** (Standard moderno)
